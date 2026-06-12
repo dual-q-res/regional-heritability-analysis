@@ -1,3 +1,6 @@
+### Purpose of this Analysis
+本プロジェクトは、社会統計に対する生物学的アプローチの適用可能性を検証する「探索的分析（Exploratory Data Analysis）」です。既存の政策評価モデルの枠を超え、データから新しい仮説を生成することを主眼としています。
+
 # Regional Industrial Adaptation Analysis: A Behavioral Genetics Approach
 
 日本の市区町村統計データ（SSDSE）を用い、教育投資が地域産業構造に与える影響を、行動遺伝学的フレームワークを応用して分析しました。
