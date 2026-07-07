@@ -1,6 +1,6 @@
 # Regional Industrial Adaptation Analysis: A Behavioral Genetics Approach
 
-日本の市区町村統計データ（SSDSE）を用い、教育投資が地域産業構造に与える影響を、行動遺伝学的フレームワークを応用して分析した。分析のコードはこちら［https://github.com/dual-q-res/regional-heritability-analysis/blob/main/analysis_process.py］
+日本の市区町村統計データ（SSDSE）を用い、教育投資が地域産業構造に与える影響を、行動遺伝学的フレームワークを応用して分析した。分析のコードはこちら```https://github.com/dual-q-res/regional-heritability-analysis/blob/main/analysis_process.py```
 
 ## Project Background
 「予算を投入すれば地域は活性化する」という従来の行政モデルに対し、植物遺伝学の数理的アプローチを用いて疑義を呈したプロジェクトである。公教育投資を「環境圧」、産業構造の変革を「表現型」と捉え、その実効性（実現遺伝率）を定量的に検証した。
